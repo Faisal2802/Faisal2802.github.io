@@ -5143,7 +5143,7 @@ Created using IcoMoon - icomoon.io
 .page-header .page-header-image {
   position: absolute;
   background-size: cover;
-  background-position: center right;
+  background-position: right center;
   width: 100%;
   height: 100%;
   z-index: -1;
@@ -5165,7 +5165,7 @@ Created using IcoMoon - icomoon.io
 .page-header .container > .content-center {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 20%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
